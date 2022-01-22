@@ -39,6 +39,8 @@ local.properties
 
 # 
 .test-output
+target/
+
 
 # TeXlipse plugin
 .texlipse
